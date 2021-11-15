@@ -1,0 +1,9 @@
+.App{
+    display: flex;
+    
+}
+.homeBtn{
+    border: none;
+    background-color: blue;
+    color: crimson;
+}

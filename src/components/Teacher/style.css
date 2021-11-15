@@ -1,0 +1,11 @@
+.teacherTable {
+    background-color: #a86c6c;
+    /* height: 50vh; */
+    text-align: center;
+    width: 40%;
+}
+.teacherHeading{
+    background-color: rgb(255, 0, 179);
+    text-align: center;
+    text-transform: capitalize;
+}
